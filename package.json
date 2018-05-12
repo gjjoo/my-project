@@ -1,0 +1,24 @@
+{
+  "name": "fc-sample-project-a",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deopard/fc-sample-project-a.git"
+  },
+  "author": "Tom Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deopard/fc-sample-project-a/issues"
+  },
+  "homepage": "https://github.com/deopard/fc-sample-project-a#readme"
+}
