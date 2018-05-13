@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('JAKE의 A project입니다!');
+  res.send('JAKE의 C project입니다!');
 });
 
 app.listen(port, function () {
