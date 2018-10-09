@@ -3,10 +3,10 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('JAKE의 D project입니다!');
+  res.send('JAKE의 comma-api project입니다!');
 });
 
-app.listen(port, function () {
+app.listen(port, function() {
   console.log(`Example app listening on port ${port}!`);
 });
 
